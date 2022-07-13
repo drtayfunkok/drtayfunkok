@@ -62,4 +62,8 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drtayfunkok&theme=algolia" alt="my commit status" width="48.2%"/>
 </p>
 
+</p align="center">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drtayfunkok&theme=algolia&layout=compact" alt="languages" width="50%" >
+</p>
+
 
